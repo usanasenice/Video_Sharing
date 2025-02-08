@@ -1,22 +1,9 @@
-<div align="center">
-    <a href="" target="_blank">
-      <img src="assets/design/preview.png" alt="Project Banner">
-    </a>
-  <h3 align="center">Video Sharing Mobile App</h3>
-</div>
 
-##  <br /> 📋 <a name="table">Table of Contents</a>
-
-- ✨ [Introduction](#introduction)
-- ⚙️ [Tech Stack](#tech-stack)
-- 📝 [Features](#features)
-- 🚀 [Quick Start](#quick-start)
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
 **[EN]** Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases modern design and functionality, enabling seamless sharing of videos within the community.
 
-**[FR]** Construite avec React Native pour une expérience utilisateur fluide, "Animatable" pour des animations captivantes, et intégrée aux systèmes backend fiables d'Appwrite, cette application présente un design moderne et des fonctionnalités facilitant le partage de vidéos au sein d'une communauté.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -53,44 +40,5 @@
 👉 **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
 
-## <br /> <a name="quick-start">🚀 Quick Start</a>
+<h4>By USANASE Nice Josiane</h4>
 
-Follow these steps to set up the project locally on your machine.
-
-<br/>**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-<br/>**Cloning the Repository**
-
-```bash
-git clone {git remote URL}
-```
-
-<br/>**Installation**
-
-Let's install the project dependencies, from your terminal, run:
-
-```bash
-npm install
-# or
-yarn install
-```
-
-<br/>**Running the Project**
-
-Installation will take a minute or two, but once that's done, you should be able to run the following command:
-
-```bash
-npm start
-# or
-npx expo start -c
-```
-
-Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
-
-Alternatively, you can also use [BlueStacks 5](https://www.bluestacks.com/bluestacks-5.html) to emulate an Android device on your computer.
